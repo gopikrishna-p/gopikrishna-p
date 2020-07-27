@@ -2,7 +2,7 @@
 
 # Pavuluri Gopikrishna
 
-I am Gopikrishna, a self taught Software Developer, with a high degree of interest in building products,System design ,Algorithms and Data Structures. <br/>
+I am Gopikrishna, a self taught Software Developer, with a high degree of interest in Building Products,System Designing,DesignPatterns,Algorithms and Data Structures. <br/>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gopikrishna_p1)](https://twitter.com/gopikrishna_p1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopikrishnapavuluri/)](https://www.linkedin.com/in/gopikrishnapavuluri/)
